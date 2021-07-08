@@ -1,2 +1,1 @@
-# Hangout-
 Live Feed
